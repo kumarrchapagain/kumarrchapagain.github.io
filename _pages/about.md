@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Student <a href='https://www.unimelb.edu.au/'>The University of Melbourne</a>
 
 profile:
   align: right
